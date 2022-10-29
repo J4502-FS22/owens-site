@@ -28,3 +28,31 @@ nav {
    text-align: center;
    font-family: 'Noto Serif', serif;
  }
+
+ img {
+   width: 90%;
+   max-width:200px;
+ }
+
+ footer {
+   background: #000;
+   color: #FD5A1E;
+ }
+
+@media (min-width: 500px){
+  li {
+    width: 60%;
+  }
+}
+
+@media (min-width: 800px) {
+  li {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1000px) {
+  li {
+    width:: 40%;
+  }
+}
