@@ -56,3 +56,14 @@ nav {
     width:: 40%;
   }
 }
+
+.text-holder {
+  width: 80%;
+  box-sizing: border-box;
+  margin: 2rem;
+}
+
+.location-holder {
+  width: 100%;
+  box-sizing: border-box;
+}
