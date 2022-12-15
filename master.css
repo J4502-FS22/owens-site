@@ -7,11 +7,16 @@ body {
   width: 700px;
   margin: auto;
   color: black;
-  background: gray;
+  background: white;
   text-align: center;
 }
 
-
+p {
+  text-align: center;
+  color: black;
+  background: gray;
+  font-family: 'Noto Sans Georgian', serif;
+}
 nav {
   color: teal;
   background-color: gray;
